@@ -23,3 +23,6 @@ This project emphasizes the integration of technology in healthcare to improve d
 12)	Number of major vessels (ca) colored by fluoroscopy provides insight into blood flow blockages in the heart's main vessels.
 13)	Thalassemia (thal) categorizes a blood disorder that can affect oxygen-carrying capacity, with abnormal values being a red flag.
 14)	Target is the outcome variable indicating the presence (1) or absence (0) of heart disease.
+
+### Conclusion:
+Random Forest emerged as the top-performing model with an accuracy score of 98%. Its ability to handle high-dimensional data and avoid overfitting through bagging makes it a reliable choice for this task.
